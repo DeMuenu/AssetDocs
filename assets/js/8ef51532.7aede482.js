@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkde_muenu_stuff_docs=self.webpackChunkde_muenu_stuff_docs||[]).push([["609"],{9107(e){e.exports=JSON.parse('{"metadata":{"permalink":"/AssetDocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
